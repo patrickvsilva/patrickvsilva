@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Patrick V. Silva!
+# Hi there 👋, I'm Patrick Vasconcelos!
 
 Welcome to my GitHub profile! I'm passionate about software development, open-source projects, and continuous learning. Here you'll find some of my work, contributions, and what drives me as a developer.
 
@@ -11,11 +11,11 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 
 ## 🛠️ Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
+![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-white?style=flat-square&logo=node.js)
+![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker)
 
 ## 📈 GitHub Stats
 
