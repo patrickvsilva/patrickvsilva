@@ -1,33 +1,21 @@
-# Hi there 👋, I'm Patrick Vasconcelos!
+# Hi there, I'm Patrick Vasconcelos
 
-Welcome to my GitHub profile! I'm passionate about software development, open-source projects, and continuous learning. Here you'll find some of my work, contributions, and what drives me as a developer.
+Data scientist passionate about software engineering, with experience in Python, operations research, and optimization-focused solutions.
 
-## 🚀 About Me
-- 💻 A data scientist passionate about software engineering, with experience in Python, operations research, and optimization-focused solutions.
-- 🎯 Interested in web development, data science, AI, optimization, linear programming, and related fields.
-- 🌱 Currently learning full-stack web development with TypeScript, React, and Python/FastAPI.
-- 📫 Reach me: vsilvapatrick@gmail.com
-- ⚡ Fun fact: I enjoy solving complex puzzles and exploring new technologies.
+Interested in web development, data science, AI, optimization, and linear programming. Currently learning full-stack web development with TypeScript, React, and Python/FastAPI.
 
-## 🛠️ Technologies & Tools
+## Tech stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
-![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-white?style=flat-square&logo=node.js)
-![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker)
+[![Tech stack](https://skillicons.dev/icons?i=python,fastapi,js,ts,react,nodejs,docker,git,vercel)](https://skillicons.dev)
 
-## 📈 GitHub Stats
+## GitHub stats
 
-![Patrick Vasconcelos's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickvsilva&show_icons=true&hide_title=true&hide_rank=false&count_private=true&theme=default)
-![Patrick Vasconcelos's GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickvsilva&layout=compact&langs_count=7&theme=default)
+<p>
+  <img src="https://github-stats-extended.vercel.app/api?username=patrickvsilva&show_icons=true&hide_rank=true&count_private=true&theme=transparent" alt="Patrick Vasconcelos GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=patrickvsilva&layout=compact&langs_count=6&theme=transparent" alt="Most used languages" />
+</p>
 
-## 🤝 Let's Connect!
+## Contact
 
-- [LinkedIn](https://linkedin.com/in/patrickvasconcelos)
-- [Twitter](https://twitter.com/patrickvsilva)
-
----
-
-Thanks for visiting! 😄
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/patrickvasconcelos)
+[![Email](https://img.shields.io/badge/Email-vsilvapatrick@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vsilvapatrick@gmail.com)
